@@ -4,6 +4,13 @@ OpenCV Experiments - Image Processing - Computer Vision Examples
 These are some of initial explorations of Open CV with Python.
 Do read the blog post http://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/
 
+Image Data Set used is avaialble online 
+http://lear.inrialpes.fr/people/jegou/data.php
+
+images are download directly at the following link on the above page
+ftp://ftp.inrialpes.fr/pub/lear/douze/data/jpg1.tar.gz
+
+
 <b>Environment Setup - MAC OSX Python PyCharm</b>
 
 Configuring PyCharm to use Python and OpenCV on  MACOSX
