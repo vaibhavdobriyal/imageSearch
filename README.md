@@ -32,6 +32,7 @@ Create a project and then go to preferences for project and set up Virtual envir
 Next task is to create the syslinks for opencv. Go to the directory where homebrew installed opencv (/usr/local/Cellar/opencv/2.4.12_2/lib/python2.7/site-packages) and create following links
 
 $ln -s cv.py ~/python_devenv/lib/python2.7/site-packages/cv.py
+
 $ ln -s cv2.so ~/python_devenv/lib/python2.7/site-packages/cv2.so
 
 You are good to go.
